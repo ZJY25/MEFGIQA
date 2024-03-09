@@ -1,0 +1,435 @@
+INFO random seed: 0
+INFO train-epoches: 1, time: 7.3513, loss: 26.4386, learning_rate: 0.010000
+INFO val-epoches: 1, val_min_loss: 183.0928, val_loss: 183.0928, best_srocc: 0.0000
+INFO val-epoches: 1, PLCC: 0.4399, SROCC: 0.3858, KROCC: 0.2599, RMSE: 12.6143
+INFO test-epoches: 1, PLCC: 0.6105, SROCC: 0.5810, KROCC: 0.4285, RMSE: 11.7600
+INFO The best srocc is: 0.5810
+INFO train-epoches: 2, time: 7.5056, loss: 3.8486, learning_rate: 0.010000
+INFO val-epoches: 2, val_min_loss: 155.6473, val_loss: 155.6473, best_srocc: 0.5810
+INFO val-epoches: 2, PLCC: 0.7395, SROCC: 0.6957, KROCC: 0.5269, RMSE: 10.7668
+INFO test-epoches: 2, PLCC: 0.8389, SROCC: 0.8169, KROCC: 0.6509, RMSE: 8.9439
+INFO The best srocc is: 0.8169
+INFO train-epoches: 3, time: 7.7628, loss: 4.0342, learning_rate: 0.010000
+INFO val-epoches: 3, val_min_loss: 155.6473, val_loss: 183.3281, best_srocc: 0.8169
+INFO val-epoches: 3, PLCC: 0.8058, SROCC: 0.7731, KROCC: 0.5874, RMSE: 11.4532
+INFO test-epoches: 3, PLCC: 0.8890, SROCC: 0.8636, KROCC: 0.6845, RMSE: 9.2242
+INFO The best srocc is: 0.8636
+INFO train-epoches: 4, time: 7.6264, loss: 3.0428, learning_rate: 0.010000
+INFO val-epoches: 4, val_min_loss: 102.1339, val_loss: 102.1339, best_srocc: 0.8636
+INFO val-epoches: 4, PLCC: 0.8245, SROCC: 0.8005, KROCC: 0.6123, RMSE: 7.9851
+INFO test-epoches: 4, PLCC: 0.9037, SROCC: 0.8968, KROCC: 0.7220, RMSE: 6.5842
+INFO The best srocc is: 0.8968
+INFO train-epoches: 5, time: 7.4361, loss: 2.9456, learning_rate: 0.010000
+INFO val-epoches: 5, val_min_loss: 102.1339, val_loss: 182.3000, best_srocc: 0.8968
+INFO val-epoches: 5, PLCC: 0.8205, SROCC: 0.7932, KROCC: 0.6060, RMSE: 12.8855
+INFO test-epoches: 5, PLCC: 0.9129, SROCC: 0.9009, KROCC: 0.7291, RMSE: 12.9960
+INFO The best srocc is: 0.9009
+INFO train-epoches: 6, time: 7.8162, loss: 2.3166, learning_rate: 0.010000
+INFO val-epoches: 6, val_min_loss: 97.5523, val_loss: 97.5523, best_srocc: 0.9009
+INFO val-epoches: 6, PLCC: 0.8036, SROCC: 0.7704, KROCC: 0.5836, RMSE: 8.2620
+INFO test-epoches: 6, PLCC: 0.9268, SROCC: 0.9100, KROCC: 0.7492, RMSE: 6.1379
+INFO The best srocc is: 0.9100
+INFO train-epoches: 7, time: 7.5878, loss: 3.6188, learning_rate: 0.010000
+INFO val-epoches: 7, val_min_loss: 97.5523, val_loss: 213.3194, best_srocc: 0.9100
+INFO val-epoches: 7, PLCC: 0.8153, SROCC: 0.7847, KROCC: 0.5967, RMSE: 13.6908
+INFO test-epoches: 7, PLCC: 0.9148, SROCC: 0.8910, KROCC: 0.7186, RMSE: 10.7981
+INFO train-epoches: 8, time: 7.2822, loss: 4.4890, learning_rate: 0.010000
+INFO val-epoches: 8, val_min_loss: 97.5523, val_loss: 140.5872, best_srocc: 0.9100
+INFO val-epoches: 8, PLCC: 0.8311, SROCC: 0.8173, KROCC: 0.6271, RMSE: 10.9681
+INFO test-epoches: 8, PLCC: 0.9170, SROCC: 0.9267, KROCC: 0.7656, RMSE: 11.3524
+INFO The best srocc is: 0.9267
+INFO train-epoches: 9, time: 7.5330, loss: 2.4156, learning_rate: 0.010000
+INFO val-epoches: 9, val_min_loss: 97.5523, val_loss: 101.6962, best_srocc: 0.9267
+INFO val-epoches: 9, PLCC: 0.8561, SROCC: 0.8382, KROCC: 0.6557, RMSE: 8.7946
+INFO test-epoches: 9, PLCC: 0.9326, SROCC: 0.9298, KROCC: 0.7684, RMSE: 9.2312
+INFO The best srocc is: 0.9298
+INFO train-epoches: 10, time: 7.7857, loss: 1.9291, learning_rate: 0.010000
+INFO val-epoches: 10, val_min_loss: 87.1065, val_loss: 87.1065, best_srocc: 0.9298
+INFO val-epoches: 10, PLCC: 0.8493, SROCC: 0.8315, KROCC: 0.6489, RMSE: 7.6107
+INFO test-epoches: 10, PLCC: 0.9266, SROCC: 0.9268, KROCC: 0.7677, RMSE: 5.5049
+INFO train-epoches: 11, time: 7.8930, loss: 1.8410, learning_rate: 0.001000
+INFO val-epoches: 11, val_min_loss: 78.3590, val_loss: 78.3590, best_srocc: 0.9298
+INFO val-epoches: 11, PLCC: 0.8624, SROCC: 0.8422, KROCC: 0.6631, RMSE: 7.4563
+INFO test-epoches: 11, PLCC: 0.9326, SROCC: 0.9293, KROCC: 0.7736, RMSE: 5.3825
+INFO train-epoches: 12, time: 7.4316, loss: 1.5873, learning_rate: 0.001000
+INFO val-epoches: 12, val_min_loss: 75.7446, val_loss: 75.7446, best_srocc: 0.9298
+INFO val-epoches: 12, PLCC: 0.8614, SROCC: 0.8365, KROCC: 0.6560, RMSE: 7.5569
+INFO test-epoches: 12, PLCC: 0.9371, SROCC: 0.9286, KROCC: 0.7739, RMSE: 6.9385
+INFO train-epoches: 13, time: 8.1989, loss: 1.2891, learning_rate: 0.001000
+INFO val-epoches: 13, val_min_loss: 72.3841, val_loss: 72.3841, best_srocc: 0.9298
+INFO val-epoches: 13, PLCC: 0.8609, SROCC: 0.8368, KROCC: 0.6570, RMSE: 7.2475
+INFO test-epoches: 13, PLCC: 0.9371, SROCC: 0.9269, KROCC: 0.7703, RMSE: 5.9071
+INFO train-epoches: 14, time: 7.9345, loss: 1.4444, learning_rate: 0.001000
+INFO val-epoches: 14, val_min_loss: 72.3841, val_loss: 91.4211, best_srocc: 0.9298
+INFO val-epoches: 14, PLCC: 0.8634, SROCC: 0.8400, KROCC: 0.6598, RMSE: 8.2429
+INFO test-epoches: 14, PLCC: 0.9386, SROCC: 0.9307, KROCC: 0.7754, RMSE: 5.4040
+INFO The best srocc is: 0.9307
+INFO train-epoches: 15, time: 7.7268, loss: 1.4400, learning_rate: 0.001000
+INFO val-epoches: 15, val_min_loss: 72.3841, val_loss: 77.4226, best_srocc: 0.9307
+INFO val-epoches: 15, PLCC: 0.8657, SROCC: 0.8421, KROCC: 0.6636, RMSE: 7.4559
+INFO test-epoches: 15, PLCC: 0.9385, SROCC: 0.9290, KROCC: 0.7738, RMSE: 5.2229
+INFO train-epoches: 16, time: 7.8018, loss: 1.2663, learning_rate: 0.001000
+INFO val-epoches: 16, val_min_loss: 72.3314, val_loss: 72.3314, best_srocc: 0.9307
+INFO val-epoches: 16, PLCC: 0.8670, SROCC: 0.8448, KROCC: 0.6662, RMSE: 7.1086
+INFO test-epoches: 16, PLCC: 0.9386, SROCC: 0.9278, KROCC: 0.7711, RMSE: 5.5503
+INFO train-epoches: 17, time: 7.5919, loss: 1.2025, learning_rate: 0.001000
+INFO val-epoches: 17, val_min_loss: 72.3314, val_loss: 73.1295, best_srocc: 0.9307
+INFO val-epoches: 17, PLCC: 0.8650, SROCC: 0.8441, KROCC: 0.6642, RMSE: 7.0581
+INFO test-epoches: 17, PLCC: 0.9377, SROCC: 0.9274, KROCC: 0.7717, RMSE: 5.6918
+INFO train-epoches: 18, time: 7.3822, loss: 1.3804, learning_rate: 0.001000
+INFO val-epoches: 18, val_min_loss: 72.3314, val_loss: 72.6259, best_srocc: 0.9307
+INFO val-epoches: 18, PLCC: 0.8687, SROCC: 0.8491, KROCC: 0.6694, RMSE: 7.1225
+INFO test-epoches: 18, PLCC: 0.9377, SROCC: 0.9297, KROCC: 0.7735, RMSE: 5.6087
+INFO train-epoches: 19, time: 7.3624, loss: 1.1863, learning_rate: 0.001000
+INFO val-epoches: 19, val_min_loss: 72.3314, val_loss: 73.1827, best_srocc: 0.9307
+INFO val-epoches: 19, PLCC: 0.8699, SROCC: 0.8487, KROCC: 0.6712, RMSE: 7.2958
+INFO test-epoches: 19, PLCC: 0.9405, SROCC: 0.9308, KROCC: 0.7780, RMSE: 5.3329
+INFO The best srocc is: 0.9308
+INFO train-epoches: 20, time: 7.9333, loss: 1.1002, learning_rate: 0.001000
+INFO val-epoches: 20, val_min_loss: 72.3314, val_loss: 76.4003, best_srocc: 0.9308
+INFO val-epoches: 20, PLCC: 0.8649, SROCC: 0.8429, KROCC: 0.6624, RMSE: 7.4424
+INFO test-epoches: 20, PLCC: 0.9403, SROCC: 0.9314, KROCC: 0.7789, RMSE: 5.1934
+INFO The best srocc is: 0.9314
+INFO train-epoches: 21, time: 10.1071, loss: 1.3612, learning_rate: 0.000100
+INFO val-epoches: 21, val_min_loss: 72.3314, val_loss: 76.8323, best_srocc: 0.9314
+INFO val-epoches: 21, PLCC: 0.8720, SROCC: 0.8591, KROCC: 0.6786, RMSE: 7.5319
+INFO test-epoches: 21, PLCC: 0.9394, SROCC: 0.9300, KROCC: 0.7754, RMSE: 5.2298
+INFO train-epoches: 22, time: 9.8072, loss: 1.2479, learning_rate: 0.000100
+INFO val-epoches: 22, val_min_loss: 69.6667, val_loss: 69.6667, best_srocc: 0.9314
+INFO val-epoches: 22, PLCC: 0.8624, SROCC: 0.8489, KROCC: 0.6709, RMSE: 7.2003
+INFO test-epoches: 22, PLCC: 0.9370, SROCC: 0.9282, KROCC: 0.7712, RMSE: 5.4736
+INFO train-epoches: 23, time: 10.0127, loss: 1.1043, learning_rate: 0.000100
+INFO val-epoches: 23, val_min_loss: 69.2416, val_loss: 69.2416, best_srocc: 0.9314
+INFO val-epoches: 23, PLCC: 0.8668, SROCC: 0.8491, KROCC: 0.6707, RMSE: 7.1848
+INFO test-epoches: 23, PLCC: 0.9402, SROCC: 0.9319, KROCC: 0.7775, RMSE: 5.3767
+INFO The best srocc is: 0.9319
+INFO train-epoches: 24, time: 9.9457, loss: 1.2083, learning_rate: 0.000100
+INFO val-epoches: 24, val_min_loss: 66.4563, val_loss: 66.4563, best_srocc: 0.9319
+INFO val-epoches: 24, PLCC: 0.8658, SROCC: 0.8475, KROCC: 0.6674, RMSE: 7.0156
+INFO test-epoches: 24, PLCC: 0.9384, SROCC: 0.9280, KROCC: 0.7717, RMSE: 5.7277
+INFO train-epoches: 25, time: 9.7182, loss: 1.1463, learning_rate: 0.000100
+INFO val-epoches: 25, val_min_loss: 66.4563, val_loss: 68.7518, best_srocc: 0.9319
+INFO val-epoches: 25, PLCC: 0.8666, SROCC: 0.8475, KROCC: 0.6663, RMSE: 7.2638
+INFO test-epoches: 25, PLCC: 0.9371, SROCC: 0.9265, KROCC: 0.7673, RMSE: 5.3149
+INFO train-epoches: 26, time: 10.1817, loss: 1.0897, learning_rate: 0.000100
+INFO val-epoches: 26, val_min_loss: 65.7620, val_loss: 65.7620, best_srocc: 0.9319
+INFO val-epoches: 26, PLCC: 0.8684, SROCC: 0.8473, KROCC: 0.6675, RMSE: 7.0935
+INFO test-epoches: 26, PLCC: 0.9398, SROCC: 0.9319, KROCC: 0.7758, RMSE: 5.2693
+INFO The best srocc is: 0.9319
+INFO train-epoches: 27, time: 9.7389, loss: 1.2632, learning_rate: 0.000100
+INFO val-epoches: 27, val_min_loss: 65.7620, val_loss: 73.9527, best_srocc: 0.9319
+INFO val-epoches: 27, PLCC: 0.8679, SROCC: 0.8511, KROCC: 0.6701, RMSE: 7.6249
+INFO test-epoches: 27, PLCC: 0.9370, SROCC: 0.9268, KROCC: 0.7654, RMSE: 5.2321
+INFO train-epoches: 28, time: 10.2541, loss: 1.1929, learning_rate: 0.000100
+INFO val-epoches: 28, val_min_loss: 64.7627, val_loss: 64.7627, best_srocc: 0.9319
+INFO val-epoches: 28, PLCC: 0.8755, SROCC: 0.8559, KROCC: 0.6786, RMSE: 7.0441
+INFO test-epoches: 28, PLCC: 0.9409, SROCC: 0.9325, KROCC: 0.7781, RMSE: 5.1240
+INFO The best srocc is: 0.9325
+INFO train-epoches: 29, time: 10.0069, loss: 1.1335, learning_rate: 0.000100
+INFO val-epoches: 29, val_min_loss: 61.8473, val_loss: 61.8473, best_srocc: 0.9325
+INFO val-epoches: 29, PLCC: 0.8772, SROCC: 0.8582, KROCC: 0.6810, RMSE: 6.8896
+INFO test-epoches: 29, PLCC: 0.9417, SROCC: 0.9335, KROCC: 0.7801, RMSE: 5.2592
+INFO The best srocc is: 0.9335
+INFO train-epoches: 30, time: 9.9091, loss: 1.2312, learning_rate: 0.000100
+INFO val-epoches: 30, val_min_loss: 61.8473, val_loss: 63.4467, best_srocc: 0.9335
+INFO val-epoches: 30, PLCC: 0.8781, SROCC: 0.8602, KROCC: 0.6830, RMSE: 7.0144
+INFO test-epoches: 30, PLCC: 0.9381, SROCC: 0.9280, KROCC: 0.7715, RMSE: 5.2881
+INFO train-epoches: 31, time: 10.0168, loss: 1.1088, learning_rate: 0.000100
+INFO val-epoches: 31, val_min_loss: 61.4703, val_loss: 61.4703, best_srocc: 0.9335
+INFO val-epoches: 31, PLCC: 0.8782, SROCC: 0.8607, KROCC: 0.6826, RMSE: 6.8425
+INFO test-epoches: 31, PLCC: 0.9417, SROCC: 0.9324, KROCC: 0.7790, RMSE: 5.2366
+INFO train-epoches: 32, time: 10.2978, loss: 1.2078, learning_rate: 0.000100
+INFO val-epoches: 32, val_min_loss: 61.4703, val_loss: 66.0000, best_srocc: 0.9335
+INFO val-epoches: 32, PLCC: 0.8794, SROCC: 0.8636, KROCC: 0.6804, RMSE: 6.9462
+INFO test-epoches: 32, PLCC: 0.9378, SROCC: 0.9271, KROCC: 0.7691, RMSE: 5.3629
+INFO train-epoches: 33, time: 10.1914, loss: 1.0979, learning_rate: 0.000100
+INFO val-epoches: 33, val_min_loss: 61.4703, val_loss: 62.4191, best_srocc: 0.9335
+INFO val-epoches: 33, PLCC: 0.8804, SROCC: 0.8645, KROCC: 0.6858, RMSE: 6.7938
+INFO test-epoches: 33, PLCC: 0.9384, SROCC: 0.9253, KROCC: 0.7669, RMSE: 5.3426
+INFO train-epoches: 34, time: 9.9583, loss: 0.9956, learning_rate: 0.000100
+INFO val-epoches: 34, val_min_loss: 61.4703, val_loss: 67.4042, best_srocc: 0.9335
+INFO val-epoches: 34, PLCC: 0.8745, SROCC: 0.8582, KROCC: 0.6784, RMSE: 7.1839
+INFO test-epoches: 34, PLCC: 0.9428, SROCC: 0.9331, KROCC: 0.7773, RMSE: 5.0031
+INFO train-epoches: 35, time: 9.8293, loss: 0.9850, learning_rate: 0.000100
+INFO val-epoches: 35, val_min_loss: 61.4703, val_loss: 69.3011, best_srocc: 0.9335
+INFO val-epoches: 35, PLCC: 0.8812, SROCC: 0.8644, KROCC: 0.6830, RMSE: 7.2496
+INFO test-epoches: 35, PLCC: 0.9442, SROCC: 0.9333, KROCC: 0.7792, RMSE: 4.9591
+INFO train-epoches: 36, time: 9.9248, loss: 1.3694, learning_rate: 0.000100
+INFO val-epoches: 36, val_min_loss: 61.4703, val_loss: 66.1537, best_srocc: 0.9335
+INFO val-epoches: 36, PLCC: 0.8758, SROCC: 0.8617, KROCC: 0.6798, RMSE: 7.1088
+INFO test-epoches: 36, PLCC: 0.9408, SROCC: 0.9303, KROCC: 0.7748, RMSE: 5.2508
+INFO train-epoches: 37, time: 10.0658, loss: 0.9919, learning_rate: 0.000100
+INFO val-epoches: 37, val_min_loss: 61.4703, val_loss: 66.2821, best_srocc: 0.9335
+INFO val-epoches: 37, PLCC: 0.8862, SROCC: 0.8716, KROCC: 0.6937, RMSE: 7.1824
+INFO test-epoches: 37, PLCC: 0.9422, SROCC: 0.9328, KROCC: 0.7781, RMSE: 5.1856
+INFO train-epoches: 38, time: 10.3393, loss: 1.0280, learning_rate: 0.000100
+INFO val-epoches: 38, val_min_loss: 61.4703, val_loss: 67.5649, best_srocc: 0.9335
+INFO val-epoches: 38, PLCC: 0.8774, SROCC: 0.8617, KROCC: 0.6817, RMSE: 7.1968
+INFO test-epoches: 38, PLCC: 0.9398, SROCC: 0.9310, KROCC: 0.7740, RMSE: 5.1116
+INFO train-epoches: 39, time: 10.0977, loss: 1.0079, learning_rate: 0.000100
+INFO val-epoches: 39, val_min_loss: 60.8515, val_loss: 60.8515, best_srocc: 0.9335
+INFO val-epoches: 39, PLCC: 0.8883, SROCC: 0.8731, KROCC: 0.6952, RMSE: 6.6922
+INFO test-epoches: 39, PLCC: 0.9373, SROCC: 0.9293, KROCC: 0.7720, RMSE: 5.5175
+INFO train-epoches: 40, time: 10.4143, loss: 0.8635, learning_rate: 0.000100
+INFO val-epoches: 40, val_min_loss: 60.8515, val_loss: 61.4219, best_srocc: 0.9335
+INFO val-epoches: 40, PLCC: 0.8906, SROCC: 0.8771, KROCC: 0.6999, RMSE: 6.9172
+INFO test-epoches: 40, PLCC: 0.9366, SROCC: 0.9264, KROCC: 0.7662, RMSE: 5.2993
+INFO train-epoches: 41, time: 9.9596, loss: 0.9066, learning_rate: 0.000010
+INFO val-epoches: 41, val_min_loss: 58.6435, val_loss: 58.6435, best_srocc: 0.9335
+INFO val-epoches: 41, PLCC: 0.8901, SROCC: 0.8769, KROCC: 0.6980, RMSE: 6.6582
+INFO test-epoches: 41, PLCC: 0.9364, SROCC: 0.9272, KROCC: 0.7670, RMSE: 5.3913
+INFO train-epoches: 42, time: 9.9809, loss: 0.9940, learning_rate: 0.000010
+INFO val-epoches: 42, val_min_loss: 57.9065, val_loss: 57.9065, best_srocc: 0.9335
+INFO val-epoches: 42, PLCC: 0.8916, SROCC: 0.8801, KROCC: 0.7021, RMSE: 6.5633
+INFO test-epoches: 42, PLCC: 0.9365, SROCC: 0.9282, KROCC: 0.7706, RMSE: 5.4690
+INFO train-epoches: 43, time: 10.0339, loss: 1.1144, learning_rate: 0.000010
+INFO val-epoches: 43, val_min_loss: 57.9065, val_loss: 61.4526, best_srocc: 0.9335
+INFO val-epoches: 43, PLCC: 0.8876, SROCC: 0.8741, KROCC: 0.6945, RMSE: 6.8203
+INFO test-epoches: 43, PLCC: 0.9368, SROCC: 0.9277, KROCC: 0.7676, RMSE: 5.2765
+INFO train-epoches: 44, time: 9.8899, loss: 1.0323, learning_rate: 0.000010
+INFO val-epoches: 44, val_min_loss: 57.9065, val_loss: 61.5183, best_srocc: 0.9335
+INFO val-epoches: 44, PLCC: 0.8902, SROCC: 0.8774, KROCC: 0.6983, RMSE: 6.8620
+INFO test-epoches: 44, PLCC: 0.9368, SROCC: 0.9272, KROCC: 0.7683, RMSE: 5.2441
+INFO train-epoches: 45, time: 10.2660, loss: 0.9149, learning_rate: 0.000010
+INFO val-epoches: 45, val_min_loss: 57.9065, val_loss: 60.8262, best_srocc: 0.9335
+INFO val-epoches: 45, PLCC: 0.8886, SROCC: 0.8748, KROCC: 0.6972, RMSE: 6.8252
+INFO test-epoches: 45, PLCC: 0.9378, SROCC: 0.9287, KROCC: 0.7711, RMSE: 5.2652
+INFO train-epoches: 46, time: 10.4834, loss: 1.0144, learning_rate: 0.000010
+INFO val-epoches: 46, val_min_loss: 57.9065, val_loss: 59.8074, best_srocc: 0.9335
+INFO val-epoches: 46, PLCC: 0.8920, SROCC: 0.8794, KROCC: 0.7035, RMSE: 6.7685
+INFO test-epoches: 46, PLCC: 0.9354, SROCC: 0.9271, KROCC: 0.7680, RMSE: 5.3396
+INFO train-epoches: 47, time: 9.9769, loss: 0.9071, learning_rate: 0.000010
+INFO val-epoches: 47, val_min_loss: 57.9065, val_loss: 58.8623, best_srocc: 0.9335
+INFO val-epoches: 47, PLCC: 0.8925, SROCC: 0.8802, KROCC: 0.7041, RMSE: 6.6539
+INFO test-epoches: 47, PLCC: 0.9361, SROCC: 0.9271, KROCC: 0.7683, RMSE: 5.3402
+INFO train-epoches: 48, time: 10.1093, loss: 0.8392, learning_rate: 0.000010
+INFO val-epoches: 48, val_min_loss: 57.9065, val_loss: 60.1510, best_srocc: 0.9335
+INFO val-epoches: 48, PLCC: 0.8897, SROCC: 0.8776, KROCC: 0.6996, RMSE: 6.7604
+INFO test-epoches: 48, PLCC: 0.9369, SROCC: 0.9265, KROCC: 0.7659, RMSE: 5.3489
+INFO train-epoches: 49, time: 10.1415, loss: 0.9930, learning_rate: 0.000010
+INFO val-epoches: 49, val_min_loss: 57.9065, val_loss: 59.3139, best_srocc: 0.9335
+INFO val-epoches: 49, PLCC: 0.8899, SROCC: 0.8783, KROCC: 0.7003, RMSE: 6.6940
+INFO test-epoches: 49, PLCC: 0.9372, SROCC: 0.9281, KROCC: 0.7701, RMSE: 5.3637
+INFO train-epoches: 50, time: 9.8914, loss: 1.0519, learning_rate: 0.000010
+INFO val-epoches: 50, val_min_loss: 57.9065, val_loss: 59.9325, best_srocc: 0.9335
+INFO val-epoches: 50, PLCC: 0.8897, SROCC: 0.8768, KROCC: 0.6986, RMSE: 6.7274
+INFO test-epoches: 50, PLCC: 0.9368, SROCC: 0.9269, KROCC: 0.7680, RMSE: 5.4063
+INFO train-epoches: 51, time: 10.0405, loss: 0.9936, learning_rate: 0.000010
+INFO val-epoches: 51, val_min_loss: 57.9065, val_loss: 64.1518, best_srocc: 0.9335
+INFO val-epoches: 51, PLCC: 0.8880, SROCC: 0.8750, KROCC: 0.6966, RMSE: 7.0691
+INFO test-epoches: 51, PLCC: 0.9372, SROCC: 0.9272, KROCC: 0.7682, RMSE: 5.2530
+INFO train-epoches: 52, time: 10.3671, loss: 0.9340, learning_rate: 0.000010
+INFO val-epoches: 52, val_min_loss: 57.9065, val_loss: 58.9401, best_srocc: 0.9335
+INFO val-epoches: 52, PLCC: 0.8891, SROCC: 0.8755, KROCC: 0.6974, RMSE: 6.6628
+INFO test-epoches: 52, PLCC: 0.9375, SROCC: 0.9287, KROCC: 0.7704, RMSE: 5.4500
+INFO train-epoches: 53, time: 10.0183, loss: 1.1007, learning_rate: 0.000010
+INFO val-epoches: 53, val_min_loss: 57.9065, val_loss: 59.4068, best_srocc: 0.9335
+INFO val-epoches: 53, PLCC: 0.8893, SROCC: 0.8759, KROCC: 0.6988, RMSE: 6.7439
+INFO test-epoches: 53, PLCC: 0.9372, SROCC: 0.9290, KROCC: 0.7717, RMSE: 5.4244
+INFO train-epoches: 54, time: 9.8413, loss: 0.8611, learning_rate: 0.000010
+INFO val-epoches: 54, val_min_loss: 57.9065, val_loss: 62.0490, best_srocc: 0.9335
+INFO val-epoches: 54, PLCC: 0.8906, SROCC: 0.8781, KROCC: 0.7012, RMSE: 6.8667
+INFO test-epoches: 54, PLCC: 0.9381, SROCC: 0.9275, KROCC: 0.7685, RMSE: 5.2251
+INFO train-epoches: 55, time: 9.8882, loss: 0.9993, learning_rate: 0.000010
+INFO val-epoches: 55, val_min_loss: 57.9065, val_loss: 63.2689, best_srocc: 0.9335
+INFO val-epoches: 55, PLCC: 0.8906, SROCC: 0.8784, KROCC: 0.7010, RMSE: 6.9609
+INFO test-epoches: 55, PLCC: 0.9377, SROCC: 0.9287, KROCC: 0.7701, RMSE: 5.1872
+INFO train-epoches: 56, time: 10.0192, loss: 0.8615, learning_rate: 0.000010
+INFO val-epoches: 56, val_min_loss: 57.9065, val_loss: 60.3259, best_srocc: 0.9335
+INFO val-epoches: 56, PLCC: 0.8879, SROCC: 0.8761, KROCC: 0.6976, RMSE: 6.8093
+INFO test-epoches: 56, PLCC: 0.9358, SROCC: 0.9261, KROCC: 0.7659, RMSE: 5.4405
+INFO train-epoches: 57, time: 9.8385, loss: 0.9417, learning_rate: 0.000010
+INFO val-epoches: 57, val_min_loss: 57.9065, val_loss: 59.5391, best_srocc: 0.9335
+INFO val-epoches: 57, PLCC: 0.8894, SROCC: 0.8769, KROCC: 0.7003, RMSE: 6.7240
+INFO test-epoches: 57, PLCC: 0.9367, SROCC: 0.9277, KROCC: 0.7691, RMSE: 5.4120
+INFO train-epoches: 58, time: 10.0239, loss: 0.8476, learning_rate: 0.000010
+INFO val-epoches: 58, val_min_loss: 57.9065, val_loss: 61.2184, best_srocc: 0.9335
+INFO val-epoches: 58, PLCC: 0.8871, SROCC: 0.8744, KROCC: 0.6967, RMSE: 6.8690
+INFO test-epoches: 58, PLCC: 0.9372, SROCC: 0.9283, KROCC: 0.7694, RMSE: 5.3310
+INFO train-epoches: 59, time: 9.8580, loss: 0.9879, learning_rate: 0.000010
+INFO val-epoches: 59, val_min_loss: 57.9065, val_loss: 60.4587, best_srocc: 0.9335
+INFO val-epoches: 59, PLCC: 0.8883, SROCC: 0.8751, KROCC: 0.6981, RMSE: 6.7948
+INFO test-epoches: 59, PLCC: 0.9367, SROCC: 0.9278, KROCC: 0.7690, RMSE: 5.3406
+INFO train-epoches: 60, time: 10.1172, loss: 0.9254, learning_rate: 0.000010
+INFO val-epoches: 60, val_min_loss: 57.9065, val_loss: 59.2346, best_srocc: 0.9335
+INFO val-epoches: 60, PLCC: 0.8888, SROCC: 0.8762, KROCC: 0.6993, RMSE: 6.7046
+INFO test-epoches: 60, PLCC: 0.9356, SROCC: 0.9266, KROCC: 0.7669, RMSE: 5.4166
+INFO train-epoches: 61, time: 9.8964, loss: 0.9717, learning_rate: 0.000001
+INFO val-epoches: 61, val_min_loss: 57.9065, val_loss: 62.3326, best_srocc: 0.9335
+INFO val-epoches: 61, PLCC: 0.8859, SROCC: 0.8733, KROCC: 0.6936, RMSE: 6.8974
+INFO test-epoches: 61, PLCC: 0.9356, SROCC: 0.9249, KROCC: 0.7637, RMSE: 5.2647
+INFO train-epoches: 62, time: 10.0840, loss: 1.1784, learning_rate: 0.000001
+INFO val-epoches: 62, val_min_loss: 57.9065, val_loss: 64.7604, best_srocc: 0.9335
+INFO val-epoches: 62, PLCC: 0.8852, SROCC: 0.8730, KROCC: 0.6939, RMSE: 7.0635
+INFO test-epoches: 62, PLCC: 0.9362, SROCC: 0.9262, KROCC: 0.7653, RMSE: 5.1962
+INFO train-epoches: 63, time: 10.2898, loss: 1.0779, learning_rate: 0.000001
+INFO val-epoches: 63, val_min_loss: 57.9065, val_loss: 61.6441, best_srocc: 0.9335
+INFO val-epoches: 63, PLCC: 0.8878, SROCC: 0.8754, KROCC: 0.6982, RMSE: 6.8767
+INFO test-epoches: 63, PLCC: 0.9367, SROCC: 0.9268, KROCC: 0.7670, RMSE: 5.2965
+INFO train-epoches: 64, time: 9.9305, loss: 0.7929, learning_rate: 0.000001
+INFO val-epoches: 64, val_min_loss: 57.9065, val_loss: 61.0299, best_srocc: 0.9335
+INFO val-epoches: 64, PLCC: 0.8876, SROCC: 0.8750, KROCC: 0.6972, RMSE: 6.8022
+INFO test-epoches: 64, PLCC: 0.9355, SROCC: 0.9255, KROCC: 0.7651, RMSE: 5.3391
+INFO train-epoches: 65, time: 9.8339, loss: 0.8531, learning_rate: 0.000001
+INFO val-epoches: 65, val_min_loss: 57.9065, val_loss: 61.1241, best_srocc: 0.9335
+INFO val-epoches: 65, PLCC: 0.8884, SROCC: 0.8766, KROCC: 0.6992, RMSE: 6.8296
+INFO test-epoches: 65, PLCC: 0.9358, SROCC: 0.9254, KROCC: 0.7653, RMSE: 5.3411
+INFO train-epoches: 66, time: 9.6766, loss: 0.9891, learning_rate: 0.000001
+INFO val-epoches: 66, val_min_loss: 57.9065, val_loss: 59.4494, best_srocc: 0.9335
+INFO val-epoches: 66, PLCC: 0.8870, SROCC: 0.8741, KROCC: 0.6964, RMSE: 6.6954
+INFO test-epoches: 66, PLCC: 0.9366, SROCC: 0.9269, KROCC: 0.7672, RMSE: 5.3686
+INFO train-epoches: 67, time: 10.1103, loss: 0.9044, learning_rate: 0.000001
+INFO val-epoches: 67, val_min_loss: 57.9065, val_loss: 64.7541, best_srocc: 0.9335
+INFO val-epoches: 67, PLCC: 0.8851, SROCC: 0.8723, KROCC: 0.6927, RMSE: 7.0579
+INFO test-epoches: 67, PLCC: 0.9367, SROCC: 0.9254, KROCC: 0.7646, RMSE: 5.1985
+INFO train-epoches: 68, time: 9.8555, loss: 1.0262, learning_rate: 0.000001
+INFO val-epoches: 68, val_min_loss: 57.9065, val_loss: 59.7428, best_srocc: 0.9335
+INFO val-epoches: 68, PLCC: 0.8870, SROCC: 0.8736, KROCC: 0.6966, RMSE: 6.7280
+INFO test-epoches: 68, PLCC: 0.9361, SROCC: 0.9262, KROCC: 0.7666, RMSE: 5.4518
+INFO train-epoches: 69, time: 10.1465, loss: 0.8629, learning_rate: 0.000001
+INFO val-epoches: 69, val_min_loss: 57.9065, val_loss: 61.3069, best_srocc: 0.9335
+INFO val-epoches: 69, PLCC: 0.8876, SROCC: 0.8738, KROCC: 0.6965, RMSE: 6.8417
+INFO test-epoches: 69, PLCC: 0.9362, SROCC: 0.9258, KROCC: 0.7660, RMSE: 5.3491
+INFO train-epoches: 70, time: 9.9646, loss: 0.9073, learning_rate: 0.000001
+INFO val-epoches: 70, val_min_loss: 57.9065, val_loss: 59.9779, best_srocc: 0.9335
+INFO val-epoches: 70, PLCC: 0.8883, SROCC: 0.8757, KROCC: 0.6986, RMSE: 6.7452
+INFO test-epoches: 70, PLCC: 0.9369, SROCC: 0.9272, KROCC: 0.7680, RMSE: 5.3734
+INFO train-epoches: 71, time: 9.8763, loss: 1.0051, learning_rate: 0.000001
+INFO val-epoches: 71, val_min_loss: 57.9065, val_loss: 59.2162, best_srocc: 0.9335
+INFO val-epoches: 71, PLCC: 0.8862, SROCC: 0.8741, KROCC: 0.6965, RMSE: 6.6721
+INFO test-epoches: 71, PLCC: 0.9366, SROCC: 0.9276, KROCC: 0.7689, RMSE: 5.5013
+INFO train-epoches: 72, time: 10.0451, loss: 0.8975, learning_rate: 0.000001
+INFO val-epoches: 72, val_min_loss: 57.9065, val_loss: 61.1819, best_srocc: 0.9335
+INFO val-epoches: 72, PLCC: 0.8859, SROCC: 0.8734, KROCC: 0.6948, RMSE: 6.8098
+INFO test-epoches: 72, PLCC: 0.9363, SROCC: 0.9260, KROCC: 0.7660, RMSE: 5.3356
+INFO train-epoches: 73, time: 10.0152, loss: 0.9925, learning_rate: 0.000001
+INFO val-epoches: 73, val_min_loss: 57.9065, val_loss: 62.4483, best_srocc: 0.9335
+INFO val-epoches: 73, PLCC: 0.8861, SROCC: 0.8725, KROCC: 0.6931, RMSE: 6.9180
+INFO test-epoches: 73, PLCC: 0.9366, SROCC: 0.9265, KROCC: 0.7665, RMSE: 5.2678
+INFO train-epoches: 74, time: 9.9126, loss: 0.9663, learning_rate: 0.000001
+INFO val-epoches: 74, val_min_loss: 57.9065, val_loss: 58.9330, best_srocc: 0.9335
+INFO val-epoches: 74, PLCC: 0.8902, SROCC: 0.8779, KROCC: 0.7014, RMSE: 6.6674
+INFO test-epoches: 74, PLCC: 0.9359, SROCC: 0.9261, KROCC: 0.7668, RMSE: 5.4648
+INFO train-epoches: 75, time: 9.9954, loss: 0.9362, learning_rate: 0.000001
+INFO val-epoches: 75, val_min_loss: 57.9065, val_loss: 60.0662, best_srocc: 0.9335
+INFO val-epoches: 75, PLCC: 0.8906, SROCC: 0.8786, KROCC: 0.7028, RMSE: 6.7456
+INFO test-epoches: 75, PLCC: 0.9362, SROCC: 0.9267, KROCC: 0.7675, RMSE: 5.2999
+INFO train-epoches: 76, time: 9.8473, loss: 0.9180, learning_rate: 0.000001
+INFO val-epoches: 76, val_min_loss: 57.9065, val_loss: 58.6103, best_srocc: 0.9335
+INFO val-epoches: 76, PLCC: 0.8904, SROCC: 0.8778, KROCC: 0.7018, RMSE: 6.6456
+INFO test-epoches: 76, PLCC: 0.9365, SROCC: 0.9276, KROCC: 0.7689, RMSE: 5.4600
+INFO train-epoches: 77, time: 9.9887, loss: 1.0051, learning_rate: 0.000001
+INFO val-epoches: 77, val_min_loss: 57.9065, val_loss: 59.2110, best_srocc: 0.9335
+INFO val-epoches: 77, PLCC: 0.8901, SROCC: 0.8778, KROCC: 0.7012, RMSE: 6.6620
+INFO test-epoches: 77, PLCC: 0.9367, SROCC: 0.9278, KROCC: 0.7695, RMSE: 5.4034
+INFO train-epoches: 78, time: 10.2289, loss: 1.0025, learning_rate: 0.000001
+INFO val-epoches: 78, val_min_loss: 57.9065, val_loss: 58.8942, best_srocc: 0.9335
+INFO val-epoches: 78, PLCC: 0.8888, SROCC: 0.8762, KROCC: 0.6996, RMSE: 6.6857
+INFO test-epoches: 78, PLCC: 0.9376, SROCC: 0.9278, KROCC: 0.7700, RMSE: 5.4589
+INFO train-epoches: 79, time: 10.1418, loss: 0.8791, learning_rate: 0.000001
+INFO val-epoches: 79, val_min_loss: 57.9065, val_loss: 61.5522, best_srocc: 0.9335
+INFO val-epoches: 79, PLCC: 0.8885, SROCC: 0.8754, KROCC: 0.6988, RMSE: 6.8453
+INFO test-epoches: 79, PLCC: 0.9371, SROCC: 0.9260, KROCC: 0.7658, RMSE: 5.2766
+INFO train-epoches: 80, time: 9.7929, loss: 0.8763, learning_rate: 0.000001
+INFO val-epoches: 80, val_min_loss: 57.9065, val_loss: 63.3787, best_srocc: 0.9335
+INFO val-epoches: 80, PLCC: 0.8860, SROCC: 0.8740, KROCC: 0.6960, RMSE: 6.9965
+INFO test-epoches: 80, PLCC: 0.9364, SROCC: 0.9259, KROCC: 0.7658, RMSE: 5.2792
+INFO train-epoches: 81, time: 10.2062, loss: 0.8574, learning_rate: 0.000000
+INFO val-epoches: 81, val_min_loss: 57.9065, val_loss: 60.4485, best_srocc: 0.9335
+INFO val-epoches: 81, PLCC: 0.8877, SROCC: 0.8756, KROCC: 0.6992, RMSE: 6.8091
+INFO test-epoches: 81, PLCC: 0.9368, SROCC: 0.9266, KROCC: 0.7673, RMSE: 5.3852
+INFO train-epoches: 82, time: 10.2252, loss: 0.8747, learning_rate: 0.000000
+INFO val-epoches: 82, val_min_loss: 57.9065, val_loss: 62.6694, best_srocc: 0.9335
+INFO val-epoches: 82, PLCC: 0.8865, SROCC: 0.8734, KROCC: 0.6951, RMSE: 6.9367
+INFO test-epoches: 82, PLCC: 0.9377, SROCC: 0.9277, KROCC: 0.7683, RMSE: 5.2512
+INFO train-epoches: 83, time: 10.1096, loss: 0.9010, learning_rate: 0.000000
+INFO val-epoches: 83, val_min_loss: 57.9065, val_loss: 61.0719, best_srocc: 0.9335
+INFO val-epoches: 83, PLCC: 0.8863, SROCC: 0.8725, KROCC: 0.6938, RMSE: 6.8239
+INFO test-epoches: 83, PLCC: 0.9370, SROCC: 0.9275, KROCC: 0.7685, RMSE: 5.3333
+INFO train-epoches: 84, time: 10.3176, loss: 0.8848, learning_rate: 0.000000
+INFO val-epoches: 84, val_min_loss: 57.9065, val_loss: 59.3768, best_srocc: 0.9335
+INFO val-epoches: 84, PLCC: 0.8884, SROCC: 0.8752, KROCC: 0.6989, RMSE: 6.7012
+INFO test-epoches: 84, PLCC: 0.9369, SROCC: 0.9274, KROCC: 0.7688, RMSE: 5.4286
+INFO train-epoches: 85, time: 10.0010, loss: 0.8964, learning_rate: 0.000000
+INFO val-epoches: 85, val_min_loss: 57.9065, val_loss: 63.3156, best_srocc: 0.9335
+INFO val-epoches: 85, PLCC: 0.8865, SROCC: 0.8735, KROCC: 0.6956, RMSE: 6.9835
+INFO test-epoches: 85, PLCC: 0.9366, SROCC: 0.9273, KROCC: 0.7684, RMSE: 5.2234
+INFO train-epoches: 86, time: 10.0518, loss: 0.9482, learning_rate: 0.000000
+INFO val-epoches: 86, val_min_loss: 57.9065, val_loss: 61.6574, best_srocc: 0.9335
+INFO val-epoches: 86, PLCC: 0.8899, SROCC: 0.8775, KROCC: 0.7017, RMSE: 6.8611
+INFO test-epoches: 86, PLCC: 0.9371, SROCC: 0.9277, KROCC: 0.7690, RMSE: 5.2703
+INFO train-epoches: 87, time: 9.9390, loss: 0.9035, learning_rate: 0.000000
+INFO val-epoches: 87, val_min_loss: 57.9065, val_loss: 60.2888, best_srocc: 0.9335
+INFO val-epoches: 87, PLCC: 0.8895, SROCC: 0.8776, KROCC: 0.7012, RMSE: 6.7436
+INFO test-epoches: 87, PLCC: 0.9369, SROCC: 0.9276, KROCC: 0.7687, RMSE: 5.2919
+INFO train-epoches: 88, time: 10.0525, loss: 0.7915, learning_rate: 0.000000
+INFO val-epoches: 88, val_min_loss: 57.9065, val_loss: 61.0365, best_srocc: 0.9335
+INFO val-epoches: 88, PLCC: 0.8870, SROCC: 0.8747, KROCC: 0.6970, RMSE: 6.8213
+INFO test-epoches: 88, PLCC: 0.9375, SROCC: 0.9290, KROCC: 0.7708, RMSE: 5.2952
+INFO train-epoches: 89, time: 9.9161, loss: 0.9049, learning_rate: 0.000000
+INFO val-epoches: 89, val_min_loss: 57.9065, val_loss: 63.6582, best_srocc: 0.9335
+INFO val-epoches: 89, PLCC: 0.8869, SROCC: 0.8734, KROCC: 0.6953, RMSE: 6.9897
+INFO test-epoches: 89, PLCC: 0.9374, SROCC: 0.9268, KROCC: 0.7668, RMSE: 5.1938
+INFO train-epoches: 90, time: 10.0734, loss: 1.1504, learning_rate: 0.000000
+INFO val-epoches: 90, val_min_loss: 57.9065, val_loss: 63.4151, best_srocc: 0.9335
+INFO val-epoches: 90, PLCC: 0.8862, SROCC: 0.8726, KROCC: 0.6941, RMSE: 6.9831
+INFO test-epoches: 90, PLCC: 0.9375, SROCC: 0.9271, KROCC: 0.7678, RMSE: 5.2172
+INFO train-epoches: 91, time: 9.9974, loss: 0.9503, learning_rate: 0.000000
+INFO val-epoches: 91, val_min_loss: 57.9065, val_loss: 60.9401, best_srocc: 0.9335
+INFO val-epoches: 91, PLCC: 0.8879, SROCC: 0.8751, KROCC: 0.6982, RMSE: 6.7882
+INFO test-epoches: 91, PLCC: 0.9364, SROCC: 0.9270, KROCC: 0.7678, RMSE: 5.3476
+INFO train-epoches: 92, time: 10.1873, loss: 0.9075, learning_rate: 0.000000
+INFO val-epoches: 92, val_min_loss: 57.9065, val_loss: 60.2895, best_srocc: 0.9335
+INFO val-epoches: 92, PLCC: 0.8888, SROCC: 0.8767, KROCC: 0.6997, RMSE: 6.7355
+INFO test-epoches: 92, PLCC: 0.9365, SROCC: 0.9269, KROCC: 0.7677, RMSE: 5.3909
+INFO train-epoches: 93, time: 9.9076, loss: 0.8360, learning_rate: 0.000000
+INFO val-epoches: 93, val_min_loss: 57.9065, val_loss: 61.3836, best_srocc: 0.9335
+INFO val-epoches: 93, PLCC: 0.8871, SROCC: 0.8742, KROCC: 0.6968, RMSE: 6.8420
+INFO test-epoches: 93, PLCC: 0.9370, SROCC: 0.9266, KROCC: 0.7668, RMSE: 5.3224
+INFO train-epoches: 94, time: 9.9664, loss: 0.8984, learning_rate: 0.000000
+INFO val-epoches: 94, val_min_loss: 57.9065, val_loss: 61.8783, best_srocc: 0.9335
+INFO val-epoches: 94, PLCC: 0.8889, SROCC: 0.8770, KROCC: 0.7009, RMSE: 6.8864
+INFO test-epoches: 94, PLCC: 0.9367, SROCC: 0.9273, KROCC: 0.7683, RMSE: 5.2839
+INFO train-epoches: 95, time: 10.2446, loss: 0.9174, learning_rate: 0.000000
+INFO val-epoches: 95, val_min_loss: 57.9065, val_loss: 60.7263, best_srocc: 0.9335
+INFO val-epoches: 95, PLCC: 0.8894, SROCC: 0.8780, KROCC: 0.7017, RMSE: 6.8039
+INFO test-epoches: 95, PLCC: 0.9371, SROCC: 0.9277, KROCC: 0.7687, RMSE: 5.3227
+INFO train-epoches: 96, time: 10.1738, loss: 0.9261, learning_rate: 0.000000
+INFO val-epoches: 96, val_min_loss: 57.9065, val_loss: 61.1269, best_srocc: 0.9335
+INFO val-epoches: 96, PLCC: 0.8882, SROCC: 0.8747, KROCC: 0.6972, RMSE: 6.8379
+INFO test-epoches: 96, PLCC: 0.9360, SROCC: 0.9256, KROCC: 0.7661, RMSE: 5.3630
+INFO train-epoches: 97, time: 10.3091, loss: 0.9667, learning_rate: 0.000000
+INFO val-epoches: 97, val_min_loss: 57.9065, val_loss: 60.0046, best_srocc: 0.9335
+INFO val-epoches: 97, PLCC: 0.8879, SROCC: 0.8754, KROCC: 0.6979, RMSE: 6.7405
+INFO test-epoches: 97, PLCC: 0.9362, SROCC: 0.9261, KROCC: 0.7664, RMSE: 5.3948
+INFO train-epoches: 98, time: 9.9223, loss: 0.8915, learning_rate: 0.000000
+INFO val-epoches: 98, val_min_loss: 57.9065, val_loss: 62.2623, best_srocc: 0.9335
+INFO val-epoches: 98, PLCC: 0.8877, SROCC: 0.8747, KROCC: 0.6967, RMSE: 6.9142
+INFO test-epoches: 98, PLCC: 0.9369, SROCC: 0.9263, KROCC: 0.7667, RMSE: 5.2909
+INFO train-epoches: 99, time: 10.1869, loss: 0.8680, learning_rate: 0.000000
+INFO val-epoches: 99, val_min_loss: 57.9065, val_loss: 63.1384, best_srocc: 0.9335
+INFO val-epoches: 99, PLCC: 0.8862, SROCC: 0.8725, KROCC: 0.6938, RMSE: 6.9616
+INFO test-epoches: 99, PLCC: 0.9368, SROCC: 0.9273, KROCC: 0.7680, RMSE: 5.2653
+INFO train-epoches: 100, time: 10.2653, loss: 0.9143, learning_rate: 0.000000
+INFO val-epoches: 100, val_min_loss: 57.9065, val_loss: 59.6002, best_srocc: 0.9335
+INFO val-epoches: 100, PLCC: 0.8877, SROCC: 0.8749, KROCC: 0.6984, RMSE: 6.7134
+INFO test-epoches: 100, PLCC: 0.9374, SROCC: 0.9282, KROCC: 0.7700, RMSE: 5.4597
+INFO train-epoches: 101, time: 9.8832, loss: 1.0863, learning_rate: 0.000000
+INFO val-epoches: 101, val_min_loss: 57.9065, val_loss: 61.8688, best_srocc: 0.9335
+INFO val-epoches: 101, PLCC: 0.8866, SROCC: 0.8735, KROCC: 0.6955, RMSE: 6.8487
+INFO test-epoches: 101, PLCC: 0.9369, SROCC: 0.9264, KROCC: 0.7663, RMSE: 5.2859
+INFO train-epoches: 102, time: 9.8352, loss: 0.9281, learning_rate: 0.000000
+INFO val-epoches: 102, val_min_loss: 57.9065, val_loss: 60.7720, best_srocc: 0.9335
+INFO val-epoches: 102, PLCC: 0.8875, SROCC: 0.8740, KROCC: 0.6965, RMSE: 6.8025
+INFO test-epoches: 102, PLCC: 0.9372, SROCC: 0.9274, KROCC: 0.7696, RMSE: 5.3345
+INFO train-epoches: 103, time: 9.9496, loss: 0.9799, learning_rate: 0.000000
+INFO val-epoches: 103, val_min_loss: 57.9065, val_loss: 59.0034, best_srocc: 0.9335
+INFO val-epoches: 103, PLCC: 0.8881, SROCC: 0.8759, KROCC: 0.6991, RMSE: 6.6817
+INFO test-epoches: 103, PLCC: 0.9360, SROCC: 0.9265, KROCC: 0.7662, RMSE: 5.4814
+INFO train-epoches: 104, time: 9.9544, loss: 0.9280, learning_rate: 0.000000
+INFO val-epoches: 104, val_min_loss: 57.9065, val_loss: 61.2053, best_srocc: 0.9335
+INFO val-epoches: 104, PLCC: 0.8888, SROCC: 0.8759, KROCC: 0.6988, RMSE: 6.8076
+INFO test-epoches: 104, PLCC: 0.9372, SROCC: 0.9278, KROCC: 0.7699, RMSE: 5.2918
+INFO train-epoches: 105, time: 10.1050, loss: 0.8276, learning_rate: 0.000000
+INFO val-epoches: 105, val_min_loss: 57.9065, val_loss: 59.8678, best_srocc: 0.9335
+INFO val-epoches: 105, PLCC: 0.8875, SROCC: 0.8754, KROCC: 0.6987, RMSE: 6.7537
